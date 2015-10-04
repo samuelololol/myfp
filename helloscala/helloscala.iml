@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="scala-sdk-2.11.4-20141023-000000-d783face36" type="Scala">
+        <properties>
+          <compiler-classpath>
+            <root url="file:///usr/share/scala-2.11/lib/scala-compiler.jar" />
+            <root url="file:///usr/share/scala-2.11/lib/scala-library.jar" />
+            <root url="file:///usr/share/scala-2.11/lib/scala-reflect.jar" />
+          </compiler-classpath>
+        </properties>
+        <CLASSES>
+          <root url="jar:///usr/share/scala-2.11/lib/scala-swing.jar!/" />
+          <root url="jar:///usr/share/scala-2.11/lib/scala-library.jar!/" />
+          <root url="jar:///usr/share/scala-2.11/lib/scala-reflect.jar!/" />
+          <root url="jar:///usr/share/scala-2.11/lib/scala-xml.jar!/" />
+          <root url="jar:///usr/share/scala-2.11/lib/scala-parser-combinators.jar!/" />
+          <root url="jar:///usr/share/scala-2.11/lib/scala-actors.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="http://www.scala-lang.org/api/2.11.4-20141023-000000-d783face36/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
